@@ -1,8 +1,11 @@
-#### Projeto Compilador MiniJava
+## MiniJava Compiler
+MiniJava projects compiler with parser and scanner.
 
-##### COMO RODAR O COMPILADOR
+*Final Compilers discipline work.
 
-1. ABRIR TERMINAL E IR ATÉ O DIRETORIO DO PROJETO
-2. EXECUTAR COMANDO "ant"
-3. ABRIR ECLIPSE
-4. CRIAR NOVO PROJETO A PARTIR DE UM ARQUIVO BUILD.XML
+#### Running compiler
+
+1. Open console and go to source project.
+2. Run the "ant" command.
+3. Open eclipse IDE.
+4. Create new project from build.xml file.
